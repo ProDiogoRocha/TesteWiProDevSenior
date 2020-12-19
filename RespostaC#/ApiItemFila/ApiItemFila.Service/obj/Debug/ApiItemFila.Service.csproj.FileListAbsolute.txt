@@ -1,0 +1,13 @@
+C:\Projetos\ApiWiPro\ApiItemFila\ApiItemFila.Service\bin\Debug\ApiItemFila.Service.dll
+C:\Projetos\ApiWiPro\ApiItemFila\ApiItemFila.Service\bin\Debug\ApiItemFila.Service.pdb
+C:\Projetos\ApiWiPro\ApiItemFila\ApiItemFila.Service\bin\Debug\ApiItemFila.Data.dll
+C:\Projetos\ApiWiPro\ApiItemFila\ApiItemFila.Service\bin\Debug\ApiItemFila.Domain.dll
+C:\Projetos\ApiWiPro\ApiItemFila\ApiItemFila.Service\bin\Debug\ApiItemFila.Data.pdb
+C:\Projetos\ApiWiPro\ApiItemFila\ApiItemFila.Service\bin\Debug\ApiItemFila.Domain.pdb
+C:\Projetos\ApiWiPro\ApiItemFila\ApiItemFila.Service\obj\Debug\ApiItemFila.Service.csprojAssemblyReference.cache
+C:\Projetos\ApiWiPro\ApiItemFila\ApiItemFila.Service\obj\Debug\ApiItemFila.Service.csproj.CopyComplete
+C:\Projetos\ApiWiPro\ApiItemFila\ApiItemFila.Service\obj\Debug\ApiItemFila.Service.dll
+C:\Projetos\ApiWiPro\ApiItemFila\ApiItemFila.Service\obj\Debug\ApiItemFila.Service.pdb
+C:\Projetos\ApiWiPro\ApiItemFila\ApiItemFila.Service\bin\Debug\Dapper.dll
+C:\Projetos\ApiWiPro\ApiItemFila\ApiItemFila.Service\bin\Debug\ApiItemFila.Data.dll.config
+C:\Projetos\ApiWiPro\ApiItemFila\ApiItemFila.Service\bin\Debug\Dapper.xml

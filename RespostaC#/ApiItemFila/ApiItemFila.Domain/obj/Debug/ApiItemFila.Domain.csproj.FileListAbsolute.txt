@@ -1,0 +1,5 @@
+C:\Projetos\ApiWiPro\ApiItemFila\ApiItemFila.Domain\bin\Debug\ApiItemFila.Domain.dll
+C:\Projetos\ApiWiPro\ApiItemFila\ApiItemFila.Domain\bin\Debug\ApiItemFila.Domain.pdb
+C:\Projetos\ApiWiPro\ApiItemFila\ApiItemFila.Domain\obj\Debug\ApiItemFila.Domain.dll
+C:\Projetos\ApiWiPro\ApiItemFila\ApiItemFila.Domain\obj\Debug\ApiItemFila.Domain.pdb
+C:\Projetos\ApiWiPro\ApiItemFila\ApiItemFila.Domain\obj\Debug\ApiItemFila.Domain.csprojAssemblyReference.cache

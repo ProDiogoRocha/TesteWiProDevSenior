@@ -1,0 +1,11 @@
+C:\Projetos\ApiWiPro\ApiItemFila\ApiItemFila.Data\bin\Debug\ApiItemFila.Data.dll
+C:\Projetos\ApiWiPro\ApiItemFila\ApiItemFila.Data\bin\Debug\ApiItemFila.Data.pdb
+C:\Projetos\ApiWiPro\ApiItemFila\ApiItemFila.Data\bin\Debug\ApiItemFila.Domain.dll
+C:\Projetos\ApiWiPro\ApiItemFila\ApiItemFila.Data\bin\Debug\ApiItemFila.Domain.pdb
+C:\Projetos\ApiWiPro\ApiItemFila\ApiItemFila.Data\obj\Debug\ApiItemFila.Data.csprojAssemblyReference.cache
+C:\Projetos\ApiWiPro\ApiItemFila\ApiItemFila.Data\obj\Debug\ApiItemFila.Data.csproj.CopyComplete
+C:\Projetos\ApiWiPro\ApiItemFila\ApiItemFila.Data\obj\Debug\ApiItemFila.Data.dll
+C:\Projetos\ApiWiPro\ApiItemFila\ApiItemFila.Data\obj\Debug\ApiItemFila.Data.pdb
+C:\Projetos\ApiWiPro\ApiItemFila\ApiItemFila.Data\bin\Debug\ApiItemFila.Data.dll.config
+C:\Projetos\ApiWiPro\ApiItemFila\ApiItemFila.Data\bin\Debug\Dapper.dll
+C:\Projetos\ApiWiPro\ApiItemFila\ApiItemFila.Data\bin\Debug\Dapper.xml
